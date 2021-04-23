@@ -8,7 +8,7 @@ Use motd to change start window
 4. reboot
 
 # Example of change.txt
-Welcome to Ubuntu 18.04.5 LTS (GNU/Linux 4.15.0-20-generic x86_64)
+Welcome to Ubuntu (motd by grinyov2007)
 
  * Documentation:  https://help.ubuntu.com
  * Management:     https://landscape.canonical.com

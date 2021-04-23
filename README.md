@@ -4,9 +4,10 @@ Use motd to change start window
 # How to install
 ```
 1. git clone https://github.com/grinyov2007/motd
-2. cd motd
-3. ./change --change=change.txt
-4. reboot
+2. sudo apt install inxi screenfetch ansiweather
+3. cd motd
+4. sudo ./change --change=change.txt
+5. sudo reboot
 ```
 
 # Example of change.txt

@@ -8,6 +8,8 @@ Use motd to change start window
 4. reboot
 
 # Example of change.txt
-Welcome to Ubuntu (motd by grinyov2007) 
+Welcome to Ubuntu (motd by grinyov2007)
+
 Documentation:  https://github.com/grinyov2007/motd/blob/main/README.md
+
 Thanks for using!

@@ -8,8 +8,21 @@ Use motd to change start window
 4. reboot
 
 # Example of change.txt
-Welcome to Ubuntu (motd by grinyov2007)
+echo "GENERAL SYSTEM INFORMATION"
 
-Documentation:  https://github.com/grinyov2007/motd/blob/main/README.md
+/usr/bin/screenfetch
 
-Thanks for using!
+echo
+
+echo "SYSTEM DISK USAGE"
+
+export TERM=xterm; inxi -D
+
+echo
+
+echo "CURRENT WEATHER AT THE LOCATION"
+
+ansiweather -l bratislava
+
+![Безымянный](https://user-images.githubusercontent.com/55713538/115918287-a585b980-a477-11eb-8fe4-f4873e0068ad.png)
+
